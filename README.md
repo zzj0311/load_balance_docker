@@ -12,3 +12,5 @@ There's four ENV varibles supported:
 * **INTERVAL**: the interval to check instance ip & port
 
 So, that's it. Have a good day:)
+Be free to contact me at support@mail.zzzzzzj.me & if you found it useful, it's nice of you to buy me a cup of coffee XD
+![Alipay](https://blog.zzzzzzj.me/content/images/2017/04/Screenshot_20170401-215654.png)
